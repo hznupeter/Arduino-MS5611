@@ -1,9 +1,6 @@
 /*
   MS5611 Barometric Pressure & Temperature Sensor. Sea Level
-  Read more: http://www.jarzebski.pl/arduino/czujniki-i-sensory/czujnik-cisnienia-i-temperatury-ms5611.html
-  GIT: https://github.com/jarzebski/Arduino-MS5611
-  Web: http://www.jarzebski.pl
-  (c) 2014 by Korneliusz Jarzebski
+   GIT: https://github.com/hznupeter/MS5611
 */
 
 #include <Wire.h>
